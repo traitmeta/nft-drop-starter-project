@@ -1,0 +1,19 @@
+{
+    "name": "Light_Fire #0002",
+    "symbol": "",
+    "image": "1.jpeg",
+    "properties": {
+        "files": [
+            {
+                "uri": "1.jpeg",
+                "type": "image/jpeg"
+            }
+        ],
+        "creators": [
+            {
+                "address": "Bu1caUPt5vUhLnG3L4RtiavCwGyieGTPgbmWt4mVK886",
+                "share": 100
+            }
+        ]
+    }
+}
